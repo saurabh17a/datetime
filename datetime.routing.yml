@@ -1,0 +1,7 @@
+datetime.form:
+  path: '/datetime'
+  defaults:
+    _form: '\Drupal\datetime\Form\DATEForm'
+    _title: 'Date Time'
+  requirements:
+    _permission: 'access content'  

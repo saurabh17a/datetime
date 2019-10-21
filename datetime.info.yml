@@ -1,0 +1,7 @@
+name: Date Time
+description: Accepts datetime value from the user and then a timezone
+package: Date Time
+type: module
+version: 1.0
+core: '8.x'
+configure: datetime.admin_settings
