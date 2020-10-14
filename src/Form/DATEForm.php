@@ -28,7 +28,7 @@ class DATEForm extends FormBase {
                 '-10' => '(GMT-10:00) America/Adak (Hawaii-Aleutian Standard Time)',
                 '-9' => '(GMT-9:00) America/Anchorage (Alaska Standard Time)',
                 '+6' => '(GMT+6:00)',
-                '+5' => '(GMT+5:00)',
+                '+5:30' => '(GMT+5:30) Asia/India (Indian standard Time)',
                 '+4' => '(GMT+4:00)',
 
 
